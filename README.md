@@ -1,21 +1,28 @@
-[![Run on Repl.it](https://repl.it/badge/github/nocodb/nocodb-seed)](https://repl.it/github/nocodb/nocodb-seed)
+# Run [NocoDB](https://nocodb.com/) in a CoCalc project
+
+This automatically takes 
 
 ## Clone & install
-```
-git clone https://github.com/nocodb/nocodb-seed
-
-cd nocodb-seed 
-
+```sh
+git clone https://github.com/sagemathinc/nocodb-cocalc
+cd nocodb-cocalc
 npm install
 ```
 
 ## Start
-```
+```sh
 npm run start
 ```
 
-## To Upgrade
+This will output a URL of the form:
+
 ```
+https://cocalc.com/[PROJECT_ID]/port/8080/dashboard/
+```
+
+
+## Upgrade
+```sh
 npm run upgrade
 ```
 
