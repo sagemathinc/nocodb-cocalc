@@ -1,6 +1,6 @@
 # Run [NocoDB](https://nocodb.com/) in a CoCalc project
 
-NocoDB is an open source #NoCode platform that turns any database into a smart spreadsheet. If you are running a database such as PostgreSQL or Sqlite in CoCalc, e.g., to keep track of data that you are analyzing, then you may find NocoDB useful.
+[NocoDB](https://nocodb.com/) is an open source #NoCode platform that turns any database into a smart spreadsheet. If you are running a database such as PostgreSQL or Sqlite in [CoCalc](https://cocalc.com), e.g., to keep track of data that you are analyzing, then you may find NocoDB useful.
 This template makes it very easy to start your own NocoDB server running in your project.
 
 Regarding security, the connection is encrypted and only collaborators on your project can access the server. Each person also has to create an account.
