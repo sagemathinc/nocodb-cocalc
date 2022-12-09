@@ -11,6 +11,8 @@ the new version.
 
 ## Clone & install
 
+NOTE: This does not work with the trial version of CoCalc. You need a paid project for network access.
+
 ```sh
 git clone https://github.com/sagemathinc/nocodb-cocalc
 cd nocodb-cocalc
